@@ -1,8 +1,0 @@
-{
-  "recommendations": [
-    "jnoortheen.nix-ide",
-    "arrterian.nix-env-selector",
-    "tamasfe.even-better-toml",
-    "denoland.vscode-deno"
-  ]
-}

@@ -1,7 +1,8 @@
-.direnv/
+# Nix
+**/.direnv/
+**/result/
+**/result-*/
 
-result
-dist
-
-# VSCode
-**/.vscode/settings.json
+# Editor
+**/.idea/
+**/.vscode/
